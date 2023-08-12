@@ -35,6 +35,10 @@ thinking > 다 잘하고 싶네요.._
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
 [![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=layla-focalors)](https://github.com/layla-focalors/github-readme-stats)
 
+
+### VALUE!!
+1.ORCID : 0009-0001-8461-9382   
+https://orcid.org/0009-0001-8461-9382
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
