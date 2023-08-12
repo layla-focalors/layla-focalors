@@ -23,7 +23,7 @@ ___
 4. Tree.js   
 
 thinking > 다 잘하고 싶네요.._   
-소개 페이지 : arisia.arisia.space 
+소개 페이지 : arisia.arisia.space  
 
 <Button style="border_radius:15px">힘내요!</Button>
 
