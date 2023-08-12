@@ -24,9 +24,6 @@ ___
 
 thinking > 다 잘하고 싶네요.._   
 소개 페이지 : arisia.arisia.space  
-<img style="width:auto, height:auto" src="https://github.com/layla-focalors/layla-focalors/blob/main/img/life.png"></img>
-이미지 출처 : Google
-
 <Button style="border_radius:15px">힘내요!</Button>
 
 ### Github Stats!
