@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fad0c4,100:ffd1ff&text=ARISIA%20SPACE&textBg=false&fontColor=d6ace6&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fad0c4,100:ffd1ff&text=ARTSNOA&textBg=false&fontColor=d6ace6&fontSize=40)
 
 ### 안녕하세요! 👋
 
