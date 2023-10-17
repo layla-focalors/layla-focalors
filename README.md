@@ -48,6 +48,8 @@ thinking > 다 잘하고 싶네요.._
 10-2023-0127544 | 클라우드 운영 서버에 사용자 인스턴스 접속 키를 저장하지 않는 가상 사설망을 이용한 클라우드 시스템 접근 제어 기법  
 10-2023-0132111 | 가상 사설망과 엑세스 토큰을 활용한 보안 처리된 IP 카메라 접속 시스템 및 방식  
 
+### 이력
+2023 | Daejin.ac.kr 지능정보 시스템 응용 실험실 ( LAB )
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
