@@ -36,9 +36,18 @@ thinking > 다 잘하고 싶네요.._
 [![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=layla-focalors)](https://github.com/layla-focalors/github-readme-stats)
 
 
-### VALUE!!
-1.ORCID : 0009-0001-8461-9382   
-https://orcid.org/0009-0001-8461-9382
+### Patent! ( IP ) - 진행 중( 심사 대기 )
+10-2023-0079076 | 메타버스 캐릭터 구현장치
+10-2023-0116566 | 원격 제어 스마트 IOT 배수 시스템
+10-2023-0116581 | 무선 전력 전송 플러그
+10-2023-0116614 | CNN과 에어커튼을 활용한 해충 차단 방충망
+10-2023-0123580 | 비밀번호 없는 가상키와 하드웨어키를 이용한 사용자 인증기법
+10-2023-0124411 | 무선충전 기술을 갖춘 스마트 플러그
+10-2023-0125165 | 호스트 노드와 메인 노드를 포함한 분산 블록체인 기반 서버 데이터 분산 저장 시스템
+10-2023-0125967 | 객체탐지를 이용한 물품 내부 검사용 X-RAY 장치( 겉의 EDGE 기반 )
+10-2023-0127544 | 클라우드 운영 서버에 사용자 인스턴스 접속 키를 저장하지 않는 가상 사설망을 이용한 클라우드 시스템 접근 제어 기법
+10-2023-0132111 | 가상 사설망과 엑세스 토큰을 활용한 보안 처리된 IP 카메라 접속 시스템 및 방식
+
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
