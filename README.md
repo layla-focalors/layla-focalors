@@ -49,13 +49,13 @@ thinking > 다 잘하고 싶네요.._
 10-2023-0132111 | 가상 사설망과 엑세스 토큰을 활용한 보안 처리된 IP 카메라 접속 시스템 및 방식  
 
 ### 이력
-2022 | Arisia.space ( 설립 )
-2023 | 동아리 회장
-2023 | Artsnoa.com ( artnoa TM ) 설립 ( Owner )
-2023 | 창업동아리 
-2023 | 캡스톤( 객체인식 기반 사용자 모델 모델링 및 가상현실 메타버스 입력기 )
-2023 | DeepDynamic.me ( 딥다이나믹 ) 공동 설립
-2023 | 지능정보 시스템 응용 실험실 ( LAB )
+2022 | Arisia.space ( 설립 )  
+2023 | 동아리 회장  
+2023 | Artsnoa.com ( artnoa TM ) 설립 ( Owner )  
+2023 | 창업동아리   
+2023 | 캡스톤( 객체인식 기반 사용자 모델 모델링 및 가상현실 메타버스 입력기 )  
+2023 | DeepDynamic.me ( 딥다이나믹 ) 공동 설립  
+2023 | 지능정보 시스템 응용 실험실 ( LAB )  
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
