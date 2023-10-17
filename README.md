@@ -58,9 +58,9 @@ thinking > 다 잘하고 싶네요.._
 2023 | DeepDynamic.me ( 딥다이나믹 ) 공동 설립  
 
 ### 운영 도메인
-[Main] Artnoa.com ( Company )
-[SUB] arisia.space ( Company - 2 )
-[SUB] deepdynamic.me ( team )
+[Main] Artnoa.com ( Company )  
+[SUB] arisia.space ( Company - 2 )  
+[SUB] deepdynamic.me ( team )  
 
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
