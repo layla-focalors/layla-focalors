@@ -10,7 +10,7 @@ ___
 대부분은 <span style="color:pink;">숨겨진</span> 레포지트리에 있지만요 . . . ( 주요 코드는 <span style="color:yellow">JS</span> & <span style='color:skyblue;'>Python</span>! )       
 원래 웹 지망이었다 AI로 갈아탄 학생!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut&theme=gradient)](https://github.com/layla-focalors/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut&theme=gradient?count_private=true)](https://github.com/layla-focalors/github-readme-stats)
 
 <h4>이거랑은 별개로..</h4>
 자바(JAVA), Rust, C, C++도 약간은 할 수 있답니다   
@@ -29,7 +29,7 @@ thinking > 다 잘하고 싶네요.._
 ### Github Stats!
 사실 깃허브 뉴비에요!  
 
-![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&show_icons=true&theme=Gradient&rank_icon=github)
+![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&show_icons=true&theme=Gradient&rank_icon=github?count_private=true)
 <!-- ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&hide=hide_rank&show_icons=true&theme=transparent) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
