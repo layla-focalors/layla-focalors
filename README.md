@@ -29,7 +29,7 @@ thinking > 다 잘하고 싶네요.._
 ### Github Stats!
 사실 깃허브 뉴비에요!  
 
-![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&show_icons=true&theme=Gradient&rank_icon=github?count_private=true)
+![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&show_icons=true&theme=Gradient&rank_icon=github)
 <!-- ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&hide=hide_rank&show_icons=true&theme=transparent) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
