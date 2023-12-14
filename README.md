@@ -67,6 +67,7 @@ thinking > 다 잘하고 싶네요.._
 [Main] Artnoa.com ( Company )  
 [SUB] arisia.space ( Company - 2 )  
 [SUB] deepdynamic.me ( team )  
+[Personal] layla-focalors.tech ( PR )
 
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
