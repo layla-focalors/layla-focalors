@@ -69,6 +69,9 @@ thinking > 다 잘하고 싶네요.._
 [SUB] deepdynamic.me ( team )  
 [Personal] layla-focalors.tech ( PR )
 
+### WakaTime
+[![Layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[sjhhjs2004@kakao.com])](layla-focalors.github.io)
+
 <!--
 **layla-focalors/layla-focalors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
