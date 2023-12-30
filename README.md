@@ -3,7 +3,9 @@
 ### 안녕하세요! 👋
 
 저는 <span style="color:beige;">layla-focalors</span> 라는 닉네임을 사용하고 있는 대학생 서준혁 이라고 합니다!  
-만나서 반가워요!!
+만나서 반가워요!!  
+
+[![wakatime](https://wakatime.com/badge/user/018c3f72-4444-4197-8fd5-dc1914e8523c.svg)](https://wakatime.com/@018c3f72-4444-4197-8fd5-dc1914e8523c)
 
 ___
 ### 자주 사용하는 언어!
@@ -33,7 +35,7 @@ thinking > 다 잘하고 싶네요.._
 <!-- ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&hide=hide_rank&show_icons=true&theme=transparent) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
-[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sjhhjs2004@kakao.com)](https://github.com/layla-focalors/github-readme-stats)
+[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018c3f72-4444-4197-8fd5-dc1914e8523c)](https://github.com/layla-focalors/github-readme-stats)
 
 
 ### Patent! ( IP ) - 진행 중( 심사 대기 )
