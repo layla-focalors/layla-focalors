@@ -33,7 +33,7 @@ thinking > 다 잘하고 싶네요.._
 <!-- ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&hide=hide_rank&show_icons=true&theme=transparent) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
-[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@layla-focalors)](https://github.com/layla-focalors/github-readme-stats)
+[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sjhhjs2004@kakao.com)](https://github.com/layla-focalors/github-readme-stats)
 
 
 ### Patent! ( IP ) - 진행 중( 심사 대기 )
