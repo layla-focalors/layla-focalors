@@ -36,7 +36,7 @@ thinking > 다 잘하고 싶네요.._
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut)](https://github.com/layla-focalors/github-readme-stats) -->
 
-[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@layla_focalors)](https://github.com/layla-focalors/github-readme-stats)
+[![layla-focalors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@layla_focalors)]((https://wakatime.com/@layla_focalors))
 
 ### Patent! ( IP ) - 진행 중( 심사 대기 )
 10-2023-0079076 | 메타버스 캐릭터 구현장치  
