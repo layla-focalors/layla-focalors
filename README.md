@@ -3,19 +3,19 @@
 ### 안녕하세요! 👋
 
 저는 <span style="color:beige;">layla-focalors</span> 라는 닉네임을 사용하고 있는 대학생 서준혁 이라고 합니다!  
-만나서 반가워요!!  
+만나서 반갑습니다!!  
 
 [![wakatime](https://wakatime.com/badge/user/018c3f72-4444-4197-8fd5-dc1914e8523c.svg)](https://wakatime.com/@018c3f72-4444-4197-8fd5-dc1914e8523c)
 
 ___
 ### 자주 사용하는 언어!
 대부분은 <span style="color:pink;">숨겨진</span> 레포지트리에 있지만요 . . . ( 주요 코드는 <span style="color:yellow">JS</span> & <span style='color:skyblue;'>Python</span>! )       
-원래 웹 지망이었다 AI로 갈아탄 학생!
+원래 웹 지망이었다 AI로 갈아탄 학생입니다!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layla-focalors&layout=donut&theme=gradient?count_private=true)](https://github.com/layla-focalors/github-readme-stats)
 
 <h4>이거랑은 별개로..</h4>
-자바(JAVA), Rust, C, C++도 약간은 할 수 있답니다   
+자바(JAVA), Rust, C, C++ 를 주요 언어로 사용합니다.
 
 ___
 <h4>사용 가능 프레임워크!</h4>
@@ -29,7 +29,6 @@ thinking > 다 잘하고 싶네요.._
 <Button style="border_radius:15px">힘내요!</Button>
 
 ### Github Stats!
-사실 깃허브 뉴비에요!  
 
 ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&show_icons=true&theme=Gradient&rank_icon=github)
 <!-- ![layla-focalors's GitHub stats](https://github-readme-stats.vercel.app/api?username=layla-focalors&hide=hide_rank&show_icons=true&theme=transparent) -->
